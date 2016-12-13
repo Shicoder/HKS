@@ -1,0 +1,2 @@
+ mex cotlpmatrix.cpp meshlpmatrix.cpp comp_meshlpmatrix.cpp tmesh.cpp offobj.cpp matrix.cpp point.cpp;
+ mex symmshlpmatrix.cpp  meshlpmatrix.cpp comp_meshlpmatrix.cpp tmesh.cpp offobj.cpp matrix.cpp point.cpp;
